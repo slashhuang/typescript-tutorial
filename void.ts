@@ -1,0 +1,1 @@
+let unusable: void = undefined;
