@@ -16,8 +16,9 @@ class Test implements H{
     };
     constructor(){
      this.t='d';
+     this.hello = 'world';
     }
 }
 
-let te :H = new Test();
+let te: H = new Test();
 (<Test>te).ss()
