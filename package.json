@@ -1,5 +1,5 @@
 {
-  "name": "typescript-basics",
+  "name": "typescript-tutorial",
   "version": "1.0.0",
   "description": "typescript tutorial",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/slashhuang/typescript-basics.git"
+    "url": "git+https://github.com/slashhuang/typescript-tutorial.git"
   },
   "keywords": [
     "typescript"
@@ -16,9 +16,9 @@
   "author": "slashhuang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/slashhuang/typescript-basics/issues"
+    "url": "https://github.com/slashhuang/typescript-tutorial/issues"
   },
-  "homepage": "https://github.com/slashhuang/typescript-basics#readme",
+  "homepage": "https://github.com/slashhuang/typescript-tutorial#readme",
   "devDependencies": {
     "typescript": "^2.4.1"
   }
