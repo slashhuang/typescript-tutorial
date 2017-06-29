@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/slashhuang/typescript-basics/issues"
   },
-  "homepage": "https://github.com/slashhuang/typescript-basics#readme"
+  "homepage": "https://github.com/slashhuang/typescript-basics#readme",
+  "devDependencies": {
+    "typescript": "^2.4.1"
+  }
 }

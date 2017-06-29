@@ -3,10 +3,9 @@
  */
 interface JQuery{
     addClass(option:string): JQuery;
-    (string): JQuery;
+    (a: string): JQuery;
 }
 interface JQueryStatic {
-
     html():string
 }
 declare var  $: JQuery;
