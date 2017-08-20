@@ -29,4 +29,4 @@ function never1(): never {
 
 let someValue1: any = "this is a string";
 
-let strLength1: number = (someValue as string).length;
+let strLength1: number = (someValue1 as string).length;
